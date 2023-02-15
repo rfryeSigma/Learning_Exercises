@@ -50,6 +50,10 @@ gives a thorough treatment and contains examples in
 - `Forest` Rigetti's development library written in `Quil` and `pyQuil`,
 - `QDK` Microsoft's Quantum Development Kit written in `Q#`.
 
+The companion website
+[https://github.com/jackhidary/quantumcomputingbook](https://github.com/jackhidary/quantumcomputingbook)
+gives supporting information, problem sets, and sample code.
+
 I have used the examples to experiment with `Cirq`.
 
 ## O'Reilly
@@ -68,3 +72,64 @@ allows running of all of the code samples in a very useful interpretive environm
 called `QCEngine` and coversion of the code to `Qiskit`, `OpenQASM`, `Q#`, or `Cirq`.
 
 I used the site extensively to experiment with my own scripts.
+
+## IBM Quantum
+IBM offers free access to simulators and several 5 and 7 qubit computers with superb documentation.
+
+IBM Composer lets you drag-and-drop circuit components or manipulate OpenQASM code and see the effect of running a circuit. It is an excellent tool for experimentation.
+
+IBM Quantum Lab lets you develop and run `Jupyter` notebooks for running on simulators or IBM quantum computers.
+
+Compute Resources shows the status of IBM quantum computers including qubit layout and performance at last calibration.
+
+## MITRE Tutorial
+The MITRE course tutorial at
+[https://stem.mitre.org/quantum/quantum-concepts/qubits.html](https://stem.mitre.org/quantum/quantum-concepts/qubits.html]
+offers clear explanations of quantum concepts and access to the `Quirk` webapp for graphically constructing and simulating quantum circuits.
+
+## Other Useful Books
+The book
+```
+Quantum Computing
+by Mika Hirvensalo
+Springer Verlag, 2001
+```
+covers the usual quantum algorithms from a more mathematical perspective.
+
+
+The book
+```
+Numerical Recipes in Quantum Information Theory and Quantum Computing
+An Adventure in FORTRAN 90
+by M. S. Ramkarthik and Payal D. Solanki
+CRC Press, 2022
+```
+gives `FORTRAN 90` code for simulating quantum components and algorithms.
+
+## Other Resources
+
+### Playgrounds
+Several companies offer playgrounds for implementing and running quantum algorithms
+- [Xanadu](https://www.xanadu.ai/)
+- [QuTech](https://www.quantum-inspire.com/)
+
+### Zoos
+Several sites link to publications about quantume algorithms
+- [Quantum Algorithm Zoo](https://quantumalgorithmzoo.org/)
+- [Error Correction Zoo](https://errorcorrectionzoo.org/list/single)
+
+### Stack Exchange
+The [Quantum Computing Stack Exchange](https://quantumcomputing.stackexchange.com/)
+is a great resource for common questions with expert answers.
+
+### Quantum Open Source Foundation
+The [QOSF and Unitary Foundation](https://qosf.org/)
+is a great resource for learning, contributing, meetups, etc.
+They support many useful projects.
+
+###Preskill's Quantum Computation Course
+Lecture notes from [John Preskill's course](http://theory.caltech.edu/~preskill/ph219/index.html#lecture)
+
+###ORNL Mailman
+Oak Ridge National Lab publishes weekly updates on conferences, calls for papers, jobs, and academic positions.
+[QCI External Emai List](https://elist.ornl.gov/mailman/listinfo/qci-external)
