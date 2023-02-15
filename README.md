@@ -1,2 +1,3 @@
 # Learning_Excercises
-Code from doing exercises from books and tutorials that I studied
+Notes about and quantum computing books and tutorials
+including code for exercises
