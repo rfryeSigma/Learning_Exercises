@@ -138,8 +138,8 @@ The companion [QOSF GitHub site](https://github.com/qosf) has repositories for
 The companion [Unitary Fund GitHub site](https://github.com/unitaryfund) has
 repositories for several projects including
  - `mitiq` implementation of error mitigation techniques
- - `pyqrack`OpenCL simulator library
- = `qrack` GPU accelerated simulator framework
+ - `pyqrack` OpenCL simulator library
+ - `qrack` GPU accelerated simulator framework
 
 ### QuEST
 The [Quantum Exact Simulation Toolkit](https://quest.qtechtheory.org/)
