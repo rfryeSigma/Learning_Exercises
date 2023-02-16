@@ -46,7 +46,7 @@ Second edition, 2021
 ```
 gives a thorough treatment and contains examples in
 - `Cirq` Google’s quantum computing development library
-- `Qiskit` IBM's Quantum Information Science Kit written in `Qiskit` and `OpenQASM`, 
+- `Qiskit` IBM's Quantum Information Science Kit written in `Qiskit` and `OpenQASM`,
 - `Forest` Rigetti's development library written in `Quil` and `pyQuil`,
 - `QDK` Microsoft's Quantum Development Kit written in `Q#`.
 
@@ -109,12 +109,12 @@ gives `FORTRAN 90` code for simulating quantum components and algorithms.
 ## Other Resources
 
 ### Playgrounds
-Several companies offer playgrounds for implementing and running quantum algorithms
+Several other companies offer playgrounds for implementing and running quantum algorithms
 - [Xanadu](https://www.xanadu.ai/)
 - [QuTech](https://www.quantum-inspire.com/)
 
 ### Zoos
-Several sites link to publications about quantume algorithms
+Several sites link to publications about quantum algorithms
 - [Quantum Algorithm Zoo](https://quantumalgorithmzoo.org/)
 - [Error Correction Zoo](https://errorcorrectionzoo.org/list/single)
 
@@ -127,9 +127,29 @@ The [QOSF and Unitary Foundation](https://qosf.org/)
 is a great resource for learning, contributing, meetups, etc.
 They support many useful projects.
 
-###Preskill's Quantum Computation Course
+The companion [QOSF GitHub site](https://github.com/qosf) has repositories for
+- Quantum benchmarks
+- Peter Wittek's MOOC
+- Monthly Challenges
+- Links to awesome open source quantum softare projects
+- ...
+
+
+The companion [Unitary Fund GitHub site](https://github.com/unitaryfund) has
+repositories for several projects including
+ - `mitiq` implementation of error mitigation techniques
+ - `pyqrack`OpenCL simulator library
+ = `qrack` GPU accelerated simulator framework
+
+### QuEST
+The [Quantum Exact Simulation Toolkit](https://quest.qtechtheory.org/)
+is a high performance simulator of
+quantum circuits, state-vectors and density matrices. QuEST uses
+multithreading, GPU acceleration and distribution.
+
+### Preskill's Quantum Computation Course
 Lecture notes from [John Preskill's course](http://theory.caltech.edu/~preskill/ph219/index.html#lecture)
 
-###ORNL Mailman
+### ORNL Mailman
 Oak Ridge National Lab publishes weekly updates on conferences, calls for papers, jobs, and academic positions.
-[QCI External Emai List](https://elist.ornl.gov/mailman/listinfo/qci-external)
+[QCI External Email List](https://elist.ornl.gov/mailman/listinfo/qci-external)
