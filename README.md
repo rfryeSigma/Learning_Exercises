@@ -108,21 +108,21 @@ gives `FORTRAN 90` code for simulating quantum components and algorithms.
 
 ## Other Resources
 
-### Playgrounds
+#### Playgrounds
 Several other companies offer playgrounds for implementing and running quantum algorithms
 - [Xanadu](https://www.xanadu.ai/)
 - [QuTech](https://www.quantum-inspire.com/)
 
-### Zoos
+#### Zoos
 Several sites link to publications about quantum algorithms
 - [Quantum Algorithm Zoo](https://quantumalgorithmzoo.org/)
 - [Error Correction Zoo](https://errorcorrectionzoo.org/list/single)
 
-### Stack Exchange
+#### Stack Exchange
 The [Quantum Computing Stack Exchange](https://quantumcomputing.stackexchange.com/)
 is a great resource for common questions with expert answers.
 
-### Quantum Open Source Foundation
+#### Quantum Open Source Foundation
 The [QOSF and Unitary Foundation](https://qosf.org/)
 is a great resource for learning, contributing, meetups, etc.
 They support many useful projects.
@@ -141,15 +141,26 @@ repositories for several projects including
  - `pyqrack` OpenCL simulator library
  - `qrack` GPU accelerated simulator framework
 
-### QuEST
+#### QuEST
 The [Quantum Exact Simulation Toolkit](https://quest.qtechtheory.org/)
 is a high performance simulator of
 quantum circuits, state-vectors and density matrices. QuEST uses
 multithreading, GPU acceleration and distribution.
 
-### Preskill's Quantum Computation Course
+#### Preskill's Quantum Computation Course
 Lecture notes from [John Preskill's course](http://theory.caltech.edu/~preskill/ph219/index.html#lecture)
 
-### ORNL Mailman
+#### ORNL Mailman
 Oak Ridge National Lab publishes weekly updates on conferences, calls for papers, jobs, and academic positions.
 [QCI External Email List](https://elist.ornl.gov/mailman/listinfo/qci-external)
+
+## Omitted
+There are many other areas that a very interesting, and I would like to learn more about but have not had time to explore.
+
+#### Quantum Annealing
+D-Wave developed, and now several other companies are exploring, adiabatic evolution via quantum and simulated annealing. They can achieve quantum supremacy by letting the Hamiltonian for a combinatorial optimization problem relax to the ground state.
+
+#### Topological Fibonacci Anyons
+Microsoft's Azure Quantum has invested in the search for Majorana non-Abelian anyons that can maintain stable qubits in braids. These topological approaches are mathematically intriguing but so far elusive.
+
+
