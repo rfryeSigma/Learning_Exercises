@@ -5,12 +5,11 @@ including code for exercises
 ## Ike & Mike
 The encyclopedic book
 ```
-Quantum Computation and Quantum Information
-Michael A. Nielsen & Isaac L. Chuang
-CAMBRIDGE UNIVERSITY PRESS
-First published 2000
-Reprinted 2002, 2003, 2004, 2007, 2009
-10th Anniversary edition published 2010
+    Quantum Computation and Quantum Information
+    Michael A. Nielsen & Isaac L. Chuang
+    CAMBRIDGE UNIVERSITY PRESS
+    First published 2000
+    10th Anniversary edition published 2010
 ```
 remains the bible for everything about quantum computing and information.
 
@@ -39,10 +38,10 @@ Hands-On Quantum Machine Learning With Python Volume 2: Combinatorial Optimizati
 ## Jack Hidary
 The book
 ```
-Quantum Computing: An Applied Approach
-By Jack D. Hidary
-Springer Nature
-Second edition, 2021
+    Quantum Computing: An Applied Approach
+    By Jack D. Hidary
+    Springer Nature
+    Second edition, 2021
 ```
 gives a thorough treatment and contains examples in
 - `Cirq` Google’s quantum computing development library
@@ -59,11 +58,11 @@ I have used the examples to experiment with `Cirq`.
 ## O'Reilly
 The book
 ```
-Programming Quantum Computers
-Essential Algorithms and Code Samples
-by Eric R. Johnston, Nic Harrigan, and Mercedes Gimeno-Segovia
-Copyright © 2019 Eric R. Johnston, Nic Harrigan, and Mercedes Gimeno-Segovia.
-Published by O’Reilly Media, Inc.,
+    Programming Quantum Computers
+    Essential Algorithms and Code Samples
+    by Eric R. Johnston, Nic Harrigan, and Mercedes Gimeno-Segovia
+    Copyright © 2019 Eric R. Johnston, Nic Harrigan, and Mercedes Gimeno-Segovia.
+    Published by O’Reilly Media, Inc.,
 ```
 simplifies examples by avoiding complex numbers and restricting to the real plane of the Bloch sphere.
 
@@ -87,22 +86,47 @@ The MITRE course tutorial at
 [https://stem.mitre.org/quantum/quantum-concepts/qubits.html](https://stem.mitre.org/quantum/quantum-concepts/qubits.html]
 offers clear explanations of quantum concepts and access to the `Quirk` webapp for graphically constructing and simulating quantum circuits.
 
+## ZX Calculus
+The ZX calculus simplifies the understanding of quantum circuits with category theory. The calculus is described in this book
+```
+    Quantum In Pictures)
+    by Bob Coecke and Stefano Gogiosos
+    Quantinuum (2023), 202 pages
+```
+
+and this previous version
+```
+    Picturing Quantum Processes
+    A First Course in Quantum Theory and Diagrammatic Reasoning
+    by Bob Coecke and Aleks Kissinger
+    Cambridge University Press (2017), 847 pages
+```
+
+This article by Ali Hussein, Peter Sigrist, and Ilyas Khan gives an overview
+
+[How ZX-calculus reveals the logic and processes of quantum mechanics to everyone](https://medium.com/quantinuum/how-zx-calculus-reveals-the-logic-and-processes-of-quantum-mechanics-to-everyone-944fc3bbbb2c)
+![image](https://user-images.githubusercontent.com/40242095/220784301-f0ad6ced-99b9-43a6-87ca-4f89f880761b.png)
+
+Many articles on the calculus are published in arxiv including this one by Andrey Boris Khesin, Jonathan Z. Lu, and Peter W. Shor
+
+[Graphical quantum Clifford-encoder compilers from the ZX calculus](https://arxiv.org/pdf/2301.02356.pdf)
+
 ## Other Useful Books
 The book
 ```
-Quantum Computing
-by Mika Hirvensalo
-Springer Verlag, 2001
+    Quantum Computing
+    by Mika Hirvensalo
+    Springer Verlag (2001), 191 pages
 ```
 covers the usual quantum algorithms from a more mathematical perspective.
 
 
 The book
 ```
-Numerical Recipes in Quantum Information Theory and Quantum Computing
-An Adventure in FORTRAN 90
-by M. S. Ramkarthik and Payal D. Solanki
-CRC Press, 2022
+    Numerical Recipes in Quantum Information Theory and Quantum Computing
+    An Adventure in FORTRAN 90
+    by M. S. Ramkarthik and Payal D. Solanki
+    CRC Press, 2022
 ```
 gives `FORTRAN 90` code for simulating quantum components and algorithms.
 
