@@ -94,7 +94,7 @@ The ZX calculus simplifies the understanding of quantum circuits with category t
     Quantinuum (2023), 202 pages
 ```
 
-and this previous version
+and in this more complete and technical version
 ```
     Picturing Quantum Processes
     A First Course in Quantum Theory and Diagrammatic Reasoning
@@ -107,9 +107,12 @@ This article by Ali Hussein, Peter Sigrist, and Ilyas Khan gives an overview
 [How ZX-calculus reveals the logic and processes of quantum mechanics to everyone](https://medium.com/quantinuum/how-zx-calculus-reveals-the-logic-and-processes-of-quantum-mechanics-to-everyone-944fc3bbbb2c)
 ![image](https://user-images.githubusercontent.com/40242095/220784301-f0ad6ced-99b9-43a6-87ca-4f89f880761b.png)
 
-Many articles on the calculus are published in arxiv including this one by Andrey Boris Khesin, Jonathan Z. Lu, and Peter W. Shor
-
-[Graphical quantum Clifford-encoder compilers from the ZX calculus](https://arxiv.org/pdf/2301.02356.pdf)
+Some links to other quantum graphs resources:
+- YouTube videos including [Coecke applying graphs to NLP](https://www.youtube.com/watch?v=oXpndBKssTk)
+- Wikipedia article [ZX-calculus](https://en.wikipedia.org/wiki/ZX-calculus)
+- Extension to [ZW calculi](https://cs.ioc.ee/~amar/files/talk-lap-zwcalculi.pdf)
+- arxiv articles including [Graphical quantum Clifford-encoder compilers from the ZX calculus](https://arxiv.org/pdf/2301.02356.pdf)
+- [Quantomatic diagrammatic proof assistant](http://quantomatic.github.io)
 
 ## Other Useful Books
 The book
@@ -119,7 +122,6 @@ The book
     Springer Verlag (2001), 191 pages
 ```
 covers the usual quantum algorithms from a more mathematical perspective.
-
 
 The book
 ```
@@ -158,7 +160,6 @@ The companion [QOSF GitHub site](https://github.com/qosf) has repositories for
 - Links to awesome open source quantum softare projects
 - ...
 
-
 The companion [Unitary Fund GitHub site](https://github.com/unitaryfund) has
 repositories for several projects including
  - `mitiq` implementation of error mitigation techniques
@@ -186,5 +187,3 @@ D-Wave developed, and now several other companies are exploring, adiabatic evolu
 
 #### Topological Fibonacci Anyons
 Microsoft's Azure Quantum has invested in the search for Majorana non-Abelian anyons that can maintain stable qubits in braids. These topological approaches are mathematically intriguing but so far elusive.
-
-
