@@ -94,7 +94,7 @@ The ZX calculus simplifies the understanding of quantum circuits with category t
     Quantinuum (2023), 202 pages
 ```
 
-and in this more complete and technical version
+and in this more complete and technical version (the Dodo book)
 ```
     Picturing Quantum Processes
     A First Course in Quantum Theory and Diagrammatic Reasoning
@@ -106,6 +106,11 @@ This article by Ali Hussein, Peter Sigrist, and Ilyas Khan gives an overview
 
 [How ZX-calculus reveals the logic and processes of quantum mechanics to everyone](https://medium.com/quantinuum/how-zx-calculus-reveals-the-logic-and-processes-of-quantum-mechanics-to-everyone-944fc3bbbb2c)
 ![image](https://user-images.githubusercontent.com/40242095/220784301-f0ad6ced-99b9-43a6-87ca-4f89f880761b.png)
+
+Bob's guest lectures for Artur Ekert’s course Introduction to Quantum Information at the Mathematical Institute of Oxford University,
+Hilary Term 2023.
+
+[Basic ZX-calculus for students and professionals](https://arxiv.org/pdf/2303.03163.pdf)
 
 Some links to other quantum graphs resources:
 - YouTube videos including [Coecke applying graphs to NLP](https://www.youtube.com/watch?v=oXpndBKssTk)
