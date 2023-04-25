@@ -1,4 +1,4 @@
-# Learning_Excercises
+# Learning_Exercises
 Notes about and quantum computing books and tutorials
 including code for exercises
 
